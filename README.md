@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @TologonK
-- Lvl 22 Male, CA Kyrgyzstan 
-- 👀 I’m interested in mobile apps and PC games 
-- 🌱 I’m currently learning web programs and gamedev
-- my @: afinag513@gmail.com  
+Tolo  
+lvl 24 shy.
